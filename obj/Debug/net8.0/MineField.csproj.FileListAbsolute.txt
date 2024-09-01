@@ -1,0 +1,14 @@
+/Users/arunoda/Desktop/MineField/bin/Debug/net8.0/MineField
+/Users/arunoda/Desktop/MineField/bin/Debug/net8.0/MineField.deps.json
+/Users/arunoda/Desktop/MineField/bin/Debug/net8.0/MineField.runtimeconfig.json
+/Users/arunoda/Desktop/MineField/bin/Debug/net8.0/MineField.dll
+/Users/arunoda/Desktop/MineField/bin/Debug/net8.0/MineField.pdb
+/Users/arunoda/Desktop/MineField/obj/Debug/net8.0/MineField.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arunoda/Desktop/MineField/obj/Debug/net8.0/MineField.AssemblyInfoInputs.cache
+/Users/arunoda/Desktop/MineField/obj/Debug/net8.0/MineField.AssemblyInfo.cs
+/Users/arunoda/Desktop/MineField/obj/Debug/net8.0/MineField.csproj.CoreCompileInputs.cache
+/Users/arunoda/Desktop/MineField/obj/Debug/net8.0/MineField.dll
+/Users/arunoda/Desktop/MineField/obj/Debug/net8.0/refint/MineField.dll
+/Users/arunoda/Desktop/MineField/obj/Debug/net8.0/MineField.pdb
+/Users/arunoda/Desktop/MineField/obj/Debug/net8.0/MineField.genruntimeconfig.cache
+/Users/arunoda/Desktop/MineField/obj/Debug/net8.0/ref/MineField.dll
